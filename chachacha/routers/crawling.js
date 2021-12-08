@@ -47,7 +47,7 @@ router.get("/cars/add/crawling", async (req, res) => {
                             let date = new Date();
                             let id = date.getTime();
                             let fuel_efficiency = fuelInfo.toString().split("\n");
-                            console.log(fuel_efficiency);
+
                             let efficiency = fuel_efficiency[1].trim(); //연비
                             let fuel = fuel_efficiency[3].trim(); //연료
                             doc = {

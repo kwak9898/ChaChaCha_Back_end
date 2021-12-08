@@ -14,7 +14,7 @@ router.get("/cars", async (req, res, next) => {
     }
 });
 
-router.get("/cras/:card_id", async (req, res) => {
+router.get("/cars/:card_id", async (req, res) => {
     const { card_id } = req.params;
     const cars = await Cars.findById({ _id: card_id });
     res.json({ cars: cars });
