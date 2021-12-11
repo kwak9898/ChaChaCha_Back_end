@@ -11,7 +11,7 @@
 ![로고](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fb4gOGL%2Fbtrnc4MLbrx%2F8g8GqJkuDEsC3x1aJriJMK%2Fimg.png)
 
 링크
-([🚗 🚗 🚗](http://movie26.shop/ "무비평점서비스"))
+([🚗 🚗 🚗](http://picapipicca.shop/))
 
 <br/>
 
