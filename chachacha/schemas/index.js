@@ -2,7 +2,7 @@ const mongoose = require("mongoose");
 
 const connect = () => {
     mongoose
-        .connect("mongodb://localhost:27017/chachacha", {
+        .connect("mongodb://test:test@localhost:27017/admin", {
             useNewUrlParser: true,
             useUnifiedTopology: true,
             ignoreUndefined: true
@@ -15,3 +15,6 @@ mongoose.connection.on("error", err => {
 });
 
 module.exports = connect;
+
+// mongodb://test:test@localhost:27017/admin
+// mongodb://localhost:27017/chachacha
