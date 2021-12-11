@@ -47,7 +47,7 @@
 ## 6. 팀원
 
 - Front: 이서현, 이해원
-- Back:  곽태민, 이도연
+- Back:  곽태민(Team Lead), 이도연
 
 <br/>
 <br/>
