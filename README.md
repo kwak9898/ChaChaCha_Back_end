@@ -17,7 +17,7 @@
 
 ## 2. 시연영상
 
-[🚗🚗🚗 시연영상](https://youtu.be/cCj2jCV43Nk "무비평점서비스")
+[🚗🚗🚗 시연영상](https://youtu.be/JKkBGYm7PV8)
 <br/>
 <br/>
 
